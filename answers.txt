@@ -1,6 +1,6 @@
 What is a gitignore file and what should it include for a Java project? 
-    git ignore file contains which files to ignore when committing a project to the GitHub repository. For a java project it should 
-    include the following for a Java project:
+    git ignore file contains which files to ignore when committing a project to the GitHub repository. For a java project, it should
+    include the following:
         ##############################
         ## Java
         ##############################
